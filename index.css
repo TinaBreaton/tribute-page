@@ -1,0 +1,41 @@
+.main-title {
+  color: purple;
+  padding-top: 30px;
+  padding-bottom: 80px;
+  font-family: Helvetica;
+  font-size: 50px;
+}
+
+.picture-background {
+  background-color: pink;
+  padding-bottom: 60px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.list-background {
+  background-color: #C8A2C8;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.larger-text {
+  font-size: 25px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.jewelry-pic {
+  border-color: #C8A2C8;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 60px;
+  width: 60%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
